@@ -14,10 +14,10 @@ Text, Image, Audio, Label use cases.
 
 
 ---
-## Gradio-2: Digit Recognition
+## Gradio-1: Digit Recognition
 Technology used: TensorFow
 
 
 ---
-## Gradio-1: English to Hindi translator
+## Gradio-2: English to Hindi translator
 Technology used: Transformers
